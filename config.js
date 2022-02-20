@@ -20,14 +20,12 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'KingOfBear',
+  'https://api.xteam.xyz': 'https://pastelink.net/v20Md',
   'https://api.lolhuman.xyz': 'rey2k21',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://apikey-bear.herokuapp.com': 'KingOfBear',
-  'https://apikey-bear2.herokuapp.com': 'KingOfBear',
-  'https://apikey-bear3.herokuapp.com': 'KingOfBear',
+  'https://apikey-bear3.herokuapp.com': 'https://pastelink.net/v20Md',
   'https://viko-api.herokuapp.com': 'vinko',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
