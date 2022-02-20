@@ -1,4 +1,4 @@
-const { MessageType } = require('@adiwajshing/baileys-md')
+const { MessageType } = require('@adiwajshing/baileys')
 const { sticker } = require('../lib/sticker')
 const { EmojiAPI } = require("emoji-api")
 const emoji = new EmojiAPI()
