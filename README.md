@@ -140,7 +140,7 @@ node .
 ### Instal Buildpack
 * heroku/nodejs
 * https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.gi*
+* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 
 ## Installing the FFmpeg for Windows
 * Unduh salah satu versi FFmpeg yang tersedia dengan mengklik [di sini](https://www.gyan.dev/ffmpeg/builds/).
